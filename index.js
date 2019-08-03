@@ -1,4 +1,8 @@
 // write your code below!
+var name = "nodejs"
+var holiday = "holiday"
+var days = 5
+
 function happyHolidays(string) {
   return "Happy holidays!";
 }
